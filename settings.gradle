@@ -1,0 +1,5 @@
+rootProject.name='ZLXS'
+include ':app'
+include ':frame'
+include ':data'
+include ':util'
